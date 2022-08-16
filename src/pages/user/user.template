@@ -1,0 +1,2 @@
+<main-navbar type="user"></main-navbar>
+<user-component id="${props.user}" single="true"></user-component>

@@ -1,0 +1,3 @@
+<main-navbar type="user"></main-navbar>
+<user-component id="${props.user}" single="true"></user-component>
+<list-component list-type="post" user="${props.user}"></list-component>

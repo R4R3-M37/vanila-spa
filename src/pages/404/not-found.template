@@ -1,0 +1,9 @@
+<main-navbar></main-navbar>
+<not-found-page>
+	<div class='wrapper'>
+		<div class="text">
+			    <h1 class="title">404</h1>
+			    <p class="subtitle">Page not found</p>
+		</div>
+	</div>
+</not-found-page>

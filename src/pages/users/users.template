@@ -1,0 +1,4 @@
+<main-navbar type='user' search='${props.search || ''}'></main-navbar>
+<list-component list-type='user' search='${props.search || ''}'>
+	Users page
+</list-component>

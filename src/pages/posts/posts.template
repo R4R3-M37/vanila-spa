@@ -1,0 +1,4 @@
+<main-navbar type='post' search='${props.search || ''}'></main-navbar>
+<list-component list-type='post' search='${props.search || ''}'>
+	Post page
+</list-component>
